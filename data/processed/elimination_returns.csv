@@ -1,0 +1,25 @@
+year,round,date,eliminated_nation,ticker,company,pre_5d_return,post_5d_return,post_10d_return,post_20d_return
+2010,quarter_final,2010-07-02,Brazil,ABEV,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-03,Argentina,ABEV,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-03,Argentina,CCU,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,semi_final,2010-07-07,Germany,BUD,AB InBev,0.0,-0.858,1.436,-3.118
+2010,semi_final,2010-07-07,Germany,CABGY,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,final,2010-07-11,Netherlands,HEINY,Heineken,0.0,-3.214,0.529,2.441
+2014,quarter_final,2014-07-04,France,HEINY,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-04,Colombia,CCU,Cervecerias Unidas,-2.036,-1.385,-2.554,-1.645
+2014,quarter_final,2014-07-05,Belgium,HEINY,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-05,Belgium,CABGY,Carlsberg,0.329,0.516,-2.58,-9.287
+2014,semi_final,2014-07-08,Brazil,ABEV,Ambev,1.563,-1.818,4.615,-5.798
+2014,semi_final,2014-07-09,Netherlands,HEINY,Heineken,0.932,-0.869,-0.163,-4.452
+2014,third_place,2014-07-12,Brazil,ABEV,Ambev,-2.228,7.265,5.556,-0.17
+2014,final,2014-07-13,Argentina,ABEV,Ambev,-2.228,7.265,5.556,-0.17
+2014,final,2014-07-13,Argentina,CCU,Cervecerias Unidas,-1.385,-1.185,1.449,-3.995
+2018,quarter_final,2018-07-06,Brazil,ABEV,Ambev,-0.853,3.441,6.021,11.613
+2018,semi_final,2018-07-10,Belgium,HEINY,Heineken,3.241,2.539,3.469,0.581
+2018,semi_final,2018-07-10,Belgium,CABGY,Carlsberg,4.898,-0.69,-0.203,-2.477
+2018,semi_final,2018-07-11,England,TAP,Molson Coors,1.359,-6.209,-4.664,-2.959
+2018,third_place,2018-07-14,England,TAP,Molson Coors,-4.182,-5.471,-0.194,-2.182
+2022,quarter_final,2022-12-09,Brazil,ABEV,Ambev,-5.806,-5.479,1.429,-0.376
+2022,quarter_final,2022-12-09,Netherlands,HEINY,Heineken,-2.198,-0.763,0.509,3.053
+2022,quarter_final,2022-12-10,England,TAP,Molson Coors,-2.826,-2.398,-1.19,-3.852
+2022,final,2022-12-18,France,HEINY,Heineken,-1.767,1.392,4.517,5.63

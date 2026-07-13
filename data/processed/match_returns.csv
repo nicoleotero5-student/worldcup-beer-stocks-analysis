@@ -1,0 +1,321 @@
+year,round,date,team1,team2,winner,avg_beer_score,winner_beer_score,ticker,market,company,pre_5d_return,post_5d_return,post_10d_return,post_20d_return
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,quarter_final,2010-07-02,Netherlands,Brazil,Netherlands,8.0,9.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,quarter_final,2010-07-02,Uruguay,Ghana,Uruguay,5.0,6.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,quarter_final,2010-07-03,Argentina,Germany,Germany,8.5,10.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,quarter_final,2010-07-03,Paraguay,Spain,Spain,6.0,6.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,semi_final,2010-07-06,Uruguay,Netherlands,Netherlands,7.5,9.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,semi_final,2010-07-07,Germany,Spain,Spain,8.0,6.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,third_place,2010-07-10,Uruguay,Germany,Germany,8.0,10.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,ABEV,Latin America,Ambev,0.0,-4.388,-11.484,-15.681
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,ASBRF,Japan,Asahi,0.0,0.0,-2.842,-3.618
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,BUD,Global,AB InBev,0.0,-0.858,1.436,-3.118
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,CABGY,Denmark/E.Europe,Carlsberg,0.0,-3.704,-2.815,-0.741
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,CCU,Chile/S.America,Cervecerias Unidas,0.0,-6.23,-2.817,-10.075
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,HEINY,Europe,Heineken,0.0,-3.214,0.529,2.441
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,KNBWY,Japan,Kirin,0.0,-1.916,-2.697,-4.4
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,SAM,USA,Boston Beer,0.0,-4.669,-2.335,-5.342
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,STZ,Mexico,Constellation Brands,0.0,-12.009,-12.777,-13.228
+2010,final,2010-07-11,Netherlands,Spain,Spain,7.5,6.0,TAP,USA/Canada/England,Molson Coors,0.0,-5.419,-4.961,-6.615
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,ABEV,Latin America,Ambev,2.279,-2.228,4.875,-3.238
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,BUD,Global,AB InBev,0.2,-1.573,-2.832,-5.725
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,CABGY,Denmark/E.Europe,Carlsberg,0.329,0.516,-2.58,-9.287
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,CCU,Chile/S.America,Cervecerias Unidas,-2.036,-1.385,-2.554,-1.645
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,HEINY,Europe,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,KNBWY,Japan,Kirin,0.627,-1.038,-1.938,-2.561
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,SAM,USA,Boston Beer,4.241,-1.113,-4.349,-4.349
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,STZ,Mexico,Constellation Brands,3.148,-0.937,-3.934,-7.57
+2014,quarter_final,2014-07-04,France,Germany,Germany,8.0,10.0,TAP,USA/Canada/England,Molson Coors,-1.398,-0.545,-1.595,-7.443
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,ABEV,Latin America,Ambev,2.279,-2.228,4.875,-3.238
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,BUD,Global,AB InBev,0.2,-1.573,-2.832,-5.725
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,CABGY,Denmark/E.Europe,Carlsberg,0.329,0.516,-2.58,-9.287
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,CCU,Chile/S.America,Cervecerias Unidas,-2.036,-1.385,-2.554,-1.645
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,HEINY,Europe,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,KNBWY,Japan,Kirin,0.627,-1.038,-1.938,-2.561
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,SAM,USA,Boston Beer,4.241,-1.113,-4.349,-4.349
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,STZ,Mexico,Constellation Brands,3.148,-0.937,-3.934,-7.57
+2014,quarter_final,2014-07-04,Brazil,Colombia,Brazil,6.5,7.0,TAP,USA/Canada/England,Molson Coors,-1.398,-0.545,-1.595,-7.443
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,ABEV,Latin America,Ambev,2.279,-2.228,4.875,-3.238
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,BUD,Global,AB InBev,0.2,-1.573,-2.832,-5.725
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,CABGY,Denmark/E.Europe,Carlsberg,0.329,0.516,-2.58,-9.287
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,CCU,Chile/S.America,Cervecerias Unidas,-2.036,-1.385,-2.554,-1.645
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,HEINY,Europe,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,KNBWY,Japan,Kirin,0.627,-1.038,-1.938,-2.561
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,SAM,USA,Boston Beer,4.241,-1.113,-4.349,-4.349
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,STZ,Mexico,Constellation Brands,3.148,-0.937,-3.934,-7.57
+2014,quarter_final,2014-07-05,Argentina,Belgium,Argentina,8.0,7.0,TAP,USA/Canada/England,Molson Coors,-1.398,-0.545,-1.595,-7.443
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,ABEV,Latin America,Ambev,2.279,-2.228,4.875,-3.238
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,BUD,Global,AB InBev,0.2,-1.573,-2.832,-5.725
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,CABGY,Denmark/E.Europe,Carlsberg,0.329,0.516,-2.58,-9.287
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,CCU,Chile/S.America,Cervecerias Unidas,-2.036,-1.385,-2.554,-1.645
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,HEINY,Europe,Heineken,2.168,0.358,0.248,-3.252
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,KNBWY,Japan,Kirin,0.627,-1.038,-1.938,-2.561
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,SAM,USA,Boston Beer,4.241,-1.113,-4.349,-4.349
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,STZ,Mexico,Constellation Brands,3.148,-0.937,-3.934,-7.57
+2014,quarter_final,2014-07-05,Netherlands,Costa Rica,Netherlands,6.5,9.0,TAP,USA/Canada/England,Molson Coors,-1.398,-0.545,-1.595,-7.443
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,ABEV,Latin America,Ambev,1.563,-1.818,4.615,-5.798
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,BUD,Global,AB InBev,-0.6,-1.392,-1.252,-5.646
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,CABGY,Denmark/E.Europe,Carlsberg,-0.926,-0.607,-3.972,-11.355
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,CCU,Chile/S.America,Cervecerias Unidas,-1.494,-2.037,-2.211,-2.297
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,HEINY,Europe,Heineken,2.539,-1.224,-0.49,-4.844
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,KNBWY,Japan,Kirin,0.069,-1.797,-1.175,-5.045
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,SAM,USA,Boston Beer,3.065,-1.736,-4.132,-3.629
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,STZ,Mexico,Constellation Brands,2.428,-1.839,-2.991,-7.843
+2014,semi_final,2014-07-08,Brazil,Germany,Germany,8.5,10.0,TAP,USA/Canada/England,Molson Coors,-1.335,-0.875,-0.998,-8.145
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,ABEV,Latin America,Ambev,-0.836,0.843,3.933,-4.125
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,BUD,Global,AB InBev,-0.026,-1.778,-1.656,-5.978
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,CABGY,Denmark/E.Europe,Carlsberg,-1.064,-1.075,-3.46,-10.425
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,CCU,Chile/S.America,Cervecerias Unidas,-2.294,-1.609,-2.826,-4.13
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,HEINY,Europe,Heineken,0.932,-0.869,-0.163,-4.452
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,KNBWY,Japan,Kirin,1.526,-2.186,-1.708,-5.055
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,SAM,USA,Boston Beer,1.001,-2.533,-3.853,-2.745
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,STZ,Mexico,Constellation Brands,1.969,-3.196,-3.318,-6.869
+2014,semi_final,2014-07-09,Netherlands,Argentina,Argentina,8.0,7.0,TAP,USA/Canada/England,Molson Coors,-0.889,-1.482,-1.319,-3.345
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,ABEV,Latin America,Ambev,-2.228,7.265,5.556,-0.17
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,BUD,Global,AB InBev,-1.573,-1.28,-3.089,-4.255
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,CABGY,Denmark/E.Europe,Carlsberg,0.516,-3.08,-5.693,-12.366
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,CCU,Chile/S.America,Cervecerias Unidas,-1.385,-1.185,1.449,-3.995
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,HEINY,Europe,Heineken,0.358,-0.11,-0.934,-4.751
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,KNBWY,Japan,Kirin,-1.038,-0.909,-0.28,-7.203
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,SAM,USA,Boston Beer,-1.113,-3.273,-5.083,0.733
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,STZ,Mexico,Constellation Brands,-0.937,-3.026,-4.26,-5.395
+2014,third_place,2014-07-12,Brazil,Netherlands,Netherlands,8.0,9.0,TAP,USA/Canada/England,Molson Coors,-0.545,-1.055,-3.564,-1.425
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,ABEV,Latin America,Ambev,-2.228,7.265,5.556,-0.17
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,0.0
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,BUD,Global,AB InBev,-1.573,-1.28,-3.089,-4.255
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,CABGY,Denmark/E.Europe,Carlsberg,0.516,-3.08,-5.693,-12.366
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,CCU,Chile/S.America,Cervecerias Unidas,-1.385,-1.185,1.449,-3.995
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,HEINY,Europe,Heineken,0.358,-0.11,-0.934,-4.751
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,KNBWY,Japan,Kirin,-1.038,-0.909,-0.28,-7.203
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,SAM,USA,Boston Beer,-1.113,-3.273,-5.083,0.733
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,STZ,Mexico,Constellation Brands,-0.937,-3.026,-4.26,-5.395
+2014,final,2014-07-13,Germany,Argentina,Germany,8.5,10.0,TAP,USA/Canada/England,Molson Coors,-0.545,-1.055,-3.564,-1.425
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,ABEV,Latin America,Ambev,-0.853,3.441,6.021,11.613
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,ASBRF,Japan,Asahi,0.0,0.0,-3.184,-7.309
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,BUD,Global,AB InBev,4.709,0.077,0.751,-3.082
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,5.854,-1.261,0.163,-1.911
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,2.837,0.631,1.734,8.238
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,HEINY,Europe,Heineken,3.929,2.482,6.243,0.814
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,KNBWY,Japan,Kirin,-1.2,-1.328,3.264,-4.44
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,SAM,USA,Boston Beer,1.119,7.781,7.021,-8.938
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,STZ,Mexico,Constellation Brands,-7.468,0.242,0.456,-0.451
+2018,quarter_final,2018-07-06,Uruguay,France,France,6.0,6.0,TAP,USA/Canada/England,Molson Coors,4.098,-3.568,-11.003,-2.011
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,ABEV,Latin America,Ambev,-0.853,3.441,6.021,11.613
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,ASBRF,Japan,Asahi,0.0,0.0,-3.184,-7.309
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,BUD,Global,AB InBev,4.709,0.077,0.751,-3.082
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,CABGY,Denmark/E.Europe,Carlsberg,5.854,-1.261,0.163,-1.911
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,CCU,Chile/S.America,Cervecerias Unidas,2.837,0.631,1.734,8.238
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,HEINY,Europe,Heineken,3.929,2.482,6.243,0.814
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,KNBWY,Japan,Kirin,-1.2,-1.328,3.264,-4.44
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,SAM,USA,Boston Beer,1.119,7.781,7.021,-8.938
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,STZ,Mexico,Constellation Brands,-7.468,0.242,0.456,-0.451
+2018,quarter_final,2018-07-06,Brazil,Belgium,Belgium,8.0,9.0,TAP,USA/Canada/England,Molson Coors,4.098,-3.568,-11.003,-2.011
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,ABEV,Latin America,Ambev,0.864,5.353,4.925,9.85
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,ASBRF,Japan,Asahi,0.0,0.0,-3.184,-7.309
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,BUD,Global,AB InBev,3.027,-0.376,1.04,-3.689
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,CABGY,Denmark/E.Europe,Carlsberg,4.206,-0.448,0.204,-2.201
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,CCU,Chile/S.America,Cervecerias Unidas,2.045,1.375,0.589,6.326
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,HEINY,Europe,Heineken,2.988,3.404,4.352,0.677
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,KNBWY,Japan,Kirin,-1.196,-1.476,4.994,-6.508
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,SAM,USA,Boston Beer,2.569,4.131,6.425,-11.874
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,STZ,Mexico,Constellation Brands,-0.26,-2.222,-1.512,-2.648
+2018,quarter_final,2018-07-07,Sweden,England,England,8.5,9.0,TAP,USA/Canada/England,Molson Coors,2.616,-4.182,-9.424,-1.089
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,ABEV,Latin America,Ambev,0.864,5.353,4.925,9.85
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,ASBRF,Japan,Asahi,0.0,0.0,-3.184,-7.309
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,BUD,Global,AB InBev,3.027,-0.376,1.04,-3.689
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,CABGY,Denmark/E.Europe,Carlsberg,4.206,-0.448,0.204,-2.201
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,CCU,Chile/S.America,Cervecerias Unidas,2.045,1.375,0.589,6.326
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,HEINY,Europe,Heineken,2.988,3.404,4.352,0.677
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,KNBWY,Japan,Kirin,-1.196,-1.476,4.994,-6.508
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,SAM,USA,Boston Beer,2.569,4.131,6.425,-11.874
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,STZ,Mexico,Constellation Brands,-0.26,-2.222,-1.512,-2.648
+2018,quarter_final,2018-07-07,Russia,Croatia,Croatia,6.5,8.0,TAP,USA/Canada/England,Molson Coors,2.616,-4.182,-9.424,-1.089
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,ABEV,Latin America,Ambev,3.226,4.167,3.958,5.208
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,ASBRF,Japan,Asahi,0.0,-3.184,-3.184,-7.309
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,BUD,Global,AB InBev,3.27,-1.097,1.04,-3.022
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,CABGY,Denmark/E.Europe,Carlsberg,4.898,-0.69,-0.203,-2.477
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,CCU,Chile/S.America,Cervecerias Unidas,2.584,1.614,3.503,5.864
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,HEINY,Europe,Heineken,3.241,2.539,3.469,0.581
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,KNBWY,Japan,Kirin,-0.345,2.728,4.687,-5.417
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,SAM,USA,Boston Beer,1.091,4.859,5.644,-12.187
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,STZ,Mexico,Constellation Brands,0.959,-1.895,-1.551,-0.39
+2018,semi_final,2018-07-10,France,Belgium,France,7.5,6.0,TAP,USA/Canada/England,Molson Coors,1.139,-2.032,-5.82,0.6
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,ABEV,Latin America,Ambev,-1.706,5.423,10.412,10.629
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,ASBRF,Japan,Asahi,0.0,-3.184,-3.184,-7.309
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,BUD,Global,AB InBev,1.607,-0.563,3.561,-3.425
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,CABGY,Denmark/E.Europe,Carlsberg,3.702,0.246,1.231,-2.913
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,CCU,Chile/S.America,Cervecerias Unidas,-0.237,1.741,4.947,6.213
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,HEINY,Europe,Heineken,1.894,3.563,5.48,-0.658
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,KNBWY,Japan,Kirin,-1.225,3.217,4.07,-9.884
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,SAM,USA,Boston Beer,1.56,2.778,6.895,-11.471
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,STZ,Mexico,Constellation Brands,1.098,-1.376,-1.012,-1.353
+2018,semi_final,2018-07-11,Croatia,England,Croatia,8.5,8.0,TAP,USA/Canada/England,Molson Coors,1.359,-6.209,-4.664,-2.959
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,ABEV,Latin America,Ambev,5.353,-0.407,6.707,-0.61
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,ASBRF,Japan,Asahi,0.0,-3.184,-3.184,-14.828
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,BUD,Global,AB InBev,-0.376,1.421,-2.079,-6.788
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,CABGY,Denmark/E.Europe,Carlsberg,-0.448,0.655,-0.45,-3.44
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,CCU,Chile/S.America,Cervecerias Unidas,1.375,-0.775,4.845,2.171
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,HEINY,Europe,Heineken,3.404,0.917,-4.583,-7.089
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,KNBWY,Japan,Kirin,-1.476,6.567,2.151,-10.522
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,SAM,USA,Boston Beer,4.131,2.202,-14.136,-12.449
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,STZ,Mexico,Constellation Brands,-2.222,0.726,-1.771,0.525
+2018,third_place,2018-07-14,Belgium,England,Belgium,9.0,9.0,TAP,USA/Canada/England,Molson Coors,-4.182,-5.471,-0.194,-2.182
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,ABEV,Latin America,Ambev,5.353,-0.407,6.707,-0.61
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,ASBRF,Japan,Asahi,0.0,-3.184,-3.184,-14.828
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,BUD,Global,AB InBev,-0.376,1.421,-2.079,-6.788
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,-0.448,0.655,-0.45,-3.44
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,1.375,-0.775,4.845,2.171
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,HEINY,Europe,Heineken,3.404,0.917,-4.583,-7.089
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,KNBWY,Japan,Kirin,-1.476,6.567,2.151,-10.522
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,SAM,USA,Boston Beer,4.131,2.202,-14.136,-12.449
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,STZ,Mexico,Constellation Brands,-2.222,0.726,-1.771,0.525
+2018,final,2018-07-15,France,Croatia,France,7.0,6.0,TAP,USA/Canada/England,Molson Coors,-4.182,-5.471,-0.194,-2.182
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,ABEV,Latin America,Ambev,-5.806,-5.479,1.429,-0.376
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,-2.849
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,BUD,Global,AB InBev,-1.226,0.034,1.275,1.409
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,CABGY,Denmark/E.Europe,Carlsberg,-0.772,0.584,2.568,4.864
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,CCU,Chile/S.America,Cervecerias Unidas,-6.186,0.761,10.082,16.496
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,HEINY,Europe,Heineken,-2.198,-0.763,0.509,3.053
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,KNBWY,Japan,Kirin,-1.519,-0.9,-0.835,-6.555
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,SAM,USA,Boston Beer,-7.231,-4.584,-6.819,-7.878
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,STZ,Mexico,Constellation Brands,-7.282,-4.412,-3.979,-9.106
+2022,quarter_final,2022-12-09,Croatia,Brazil,Croatia,7.5,8.0,TAP,USA/Canada/England,Molson Coors,-5.597,-2.44,-1.01,-3.05
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,ABEV,Latin America,Ambev,-5.806,-5.479,1.429,-0.376
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,ASBRF,Japan,Asahi,0.0,0.0,0.0,-2.849
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,BUD,Global,AB InBev,-1.226,0.034,1.275,1.409
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,CABGY,Denmark/E.Europe,Carlsberg,-0.772,0.584,2.568,4.864
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,CCU,Chile/S.America,Cervecerias Unidas,-6.186,0.761,10.082,16.496
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,HEINY,Europe,Heineken,-2.198,-0.763,0.509,3.053
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,KNBWY,Japan,Kirin,-1.519,-0.9,-0.835,-6.555
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,SAM,USA,Boston Beer,-7.231,-4.584,-6.819,-7.878
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,STZ,Mexico,Constellation Brands,-7.282,-4.412,-3.979,-9.106
+2022,quarter_final,2022-12-09,Netherlands,Argentina,Argentina,8.0,7.0,TAP,USA/Canada/England,Molson Coors,-5.597,-2.44,-1.01,-3.05
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,ABEV,Latin America,Ambev,-4.651,-0.697,-0.109,-0.109
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,ASBRF,Japan,Asahi,0.0,0.0,-4.177,-2.849
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,BUD,Global,AB InBev,0.908,-0.85,0.617,3.151
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,CABGY,Denmark/E.Europe,Carlsberg,1.42,0.583,3.188,5.171
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,CCU,Chile/S.America,Cervecerias Unidas,-3.291,1.079,9.179,17.093
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,HEINY,Europe,Heineken,1.581,-1.767,-0.4,3.764
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,KNBWY,Japan,Kirin,0.13,-1.365,-0.39,-4.938
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,SAM,USA,Boston Beer,-5.467,-5.43,-7.115,-4.001
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,STZ,Mexico,Constellation Brands,-3.677,-6.192,-5.336,-9.308
+2022,quarter_final,2022-12-10,Morocco,Portugal,Morocco,4.0,2.0,TAP,USA/Canada/England,Molson Coors,-2.826,-2.398,-1.19,-3.852
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,ABEV,Latin America,Ambev,-4.651,-0.697,-0.109,-0.109
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,ASBRF,Japan,Asahi,0.0,0.0,-4.177,-2.849
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,BUD,Global,AB InBev,0.908,-0.85,0.617,3.151
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,CABGY,Denmark/E.Europe,Carlsberg,1.42,0.583,3.188,5.171
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,CCU,Chile/S.America,Cervecerias Unidas,-3.291,1.079,9.179,17.093
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,HEINY,Europe,Heineken,1.581,-1.767,-0.4,3.764
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,KNBWY,Japan,Kirin,0.13,-1.365,-0.39,-4.938
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,SAM,USA,Boston Beer,-5.467,-5.43,-7.115,-4.001
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,STZ,Mexico,Constellation Brands,-3.677,-6.192,-5.336,-9.308
+2022,quarter_final,2022-12-10,England,France,France,7.5,6.0,TAP,USA/Canada/England,Molson Coors,-2.826,-2.398,-1.19,-3.852
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,ABEV,Latin America,Ambev,-5.0,2.071,1.701,1.331
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,ASBRF,Japan,Asahi,0.0,0.0,-4.177,-2.849
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,BUD,Global,AB InBev,3.033,-2.368,-1.398,-0.526
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,CABGY,Denmark/E.Europe,Carlsberg,4.282,-1.863,0.494,4.829
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,CCU,Chile/S.America,Cervecerias Unidas,-0.489,0.328,10.855,14.634
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,HEINY,Europe,Heineken,1.334,-2.216,-1.693,4.327
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,KNBWY,Japan,Kirin,2.144,-1.145,-1.463,-4.707
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,SAM,USA,Boston Beer,0.992,-8.212,-9.692,-3.725
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,STZ,Mexico,Constellation Brands,-2.73,-4.438,-3.728,-7.336
+2022,semi_final,2022-12-13,Argentina,Croatia,Argentina,7.5,7.0,TAP,USA/Canada/England,Molson Coors,-1.22,-3.497,-2.338,-4.334
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,ABEV,Latin America,Ambev,-5.941,1.701,1.701,0.222
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,ASBRF,Japan,Asahi,0.0,0.0,-2.849,-2.849
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,BUD,Global,AB InBev,3.016,-1.178,-1.243,-0.36
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,CABGY,Denmark/E.Europe,Carlsberg,4.867,-1.434,0.0,4.83
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,CCU,Chile/S.America,Cervecerias Unidas,-0.658,4.308,12.566,13.67
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,HEINY,Europe,Heineken,1.082,-0.714,-0.357,5.102
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,KNBWY,Japan,Kirin,1.932,-1.263,-3.601,-6.001
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,SAM,USA,Boston Beer,-0.493,-5.831,-6.253,0.115
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,STZ,Mexico,Constellation Brands,-2.883,-2.571,-1.983,-6.074
+2022,semi_final,2022-12-14,France,Morocco,France,4.0,6.0,TAP,USA/Canada/England,Molson Coors,-0.302,-2.723,-2.439,-4.027
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,ABEV,Latin America,Ambev,-0.697,0.592,-3.476,-3.846
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,ASBRF,Japan,Asahi,0.0,-4.177,-2.849,-2.849
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,BUD,Global,AB InBev,-0.85,1.479,3.06,-0.252
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,CABGY,Denmark/E.Europe,Carlsberg,0.583,2.59,4.909,10.553
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,CCU,Chile/S.America,Cervecerias Unidas,1.079,8.013,6.751,15.169
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,HEINY,Europe,Heineken,-1.767,1.392,4.517,5.63
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,KNBWY,Japan,Kirin,-1.365,0.988,-2.437,-0.527
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,SAM,USA,Boston Beer,-5.43,-1.782,-3.456,2.687
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,STZ,Mexico,Constellation Brands,-6.192,0.912,0.378,-5.949
+2022,third_place,2022-12-17,Croatia,Morocco,Croatia,5.0,8.0,TAP,USA/Canada/England,Molson Coors,-2.398,1.238,-0.638,-4.063
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,ABEV,Latin America,Ambev,-0.697,0.592,-3.476,-3.846
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,ASBRF,Japan,Asahi,0.0,-4.177,-2.849,-2.849
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,BUD,Global,AB InBev,-0.85,1.479,3.06,-0.252
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,CABGY,Denmark/E.Europe,Carlsberg,0.583,2.59,4.909,10.553
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,CCU,Chile/S.America,Cervecerias Unidas,1.079,8.013,6.751,15.169
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,HEINY,Europe,Heineken,-1.767,1.392,4.517,5.63
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,KNBWY,Japan,Kirin,-1.365,0.988,-2.437,-0.527
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,SAM,USA,Boston Beer,-5.43,-1.782,-3.456,2.687
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,STZ,Mexico,Constellation Brands,-6.192,0.912,0.378,-5.949
+2022,final,2022-12-18,Argentina,France,Argentina,6.5,7.0,TAP,USA/Canada/England,Molson Coors,-2.398,1.238,-0.638,-4.063

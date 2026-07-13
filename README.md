@@ -96,5 +96,9 @@ With France, Spain, England and Argentina in the semi finals:
 ## Status
 ✅ Complete — built live during the 2026 World Cup
 
+## Published Notebook
+The full analysis is published as an interactive Kaggle notebook:  
+[Beer Stocks: The Unexpected Winner of This World Cup](https://www.kaggle.com/code/nicoleoteromeneses/beer-stocks-the-unexpected-winner-of-this-world-c)
+
 ## Author
 Nicole Otero — Data Analytics Portfolio Project, 2026

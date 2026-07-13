@@ -1,0 +1,13 @@
+final_matchup,final_winner,final_loser,final_beer_score,semi_losers,semi_elimination_impact,semi_stocks_affected,final_elimination_impact,final_stocks_affected,total_tournament_impact
+France vs Spain,France,Spain,6.0,"England, Argentina",-5.82,"ABEV, CCU, TAP",0.5,"HEINY, CABGY",-5.32
+France vs Spain,Spain,France,6.0,"England, Argentina",-5.82,"ABEV, CCU, TAP",0.88,HEINY,-4.94
+France vs Argentina,France,Argentina,6.5,"Spain, England",-4.19,"HEINY, CABGY, TAP",-1.13,"ABEV, CCU",-5.32
+France vs Argentina,Argentina,France,6.5,"Spain, England",-4.19,"HEINY, CABGY, TAP",0.88,HEINY,-3.31
+France vs England,France,England,7.5,"Spain, Argentina",-0.63,"ABEV, HEINY, CABGY, CCU",-4.69,TAP,-5.32
+France vs England,England,France,7.5,"Spain, Argentina",-0.63,"ABEV, HEINY, CABGY, CCU",0.88,HEINY,0.25
+Spain vs England,Spain,England,7.5,"France, Argentina",-0.25,"ABEV, HEINY, CCU",-4.69,TAP,-4.94
+Spain vs England,England,Spain,7.5,"France, Argentina",-0.25,"ABEV, HEINY, CCU",0.5,"HEINY, CABGY",0.25
+Spain vs Argentina,Spain,Argentina,6.5,"France, England",-3.81,"HEINY, TAP",-1.13,"ABEV, CCU",-4.94
+Spain vs Argentina,Argentina,Spain,6.5,"France, England",-3.81,"HEINY, TAP",0.5,"HEINY, CABGY",-3.31
+England vs Argentina,England,Argentina,8.0,"France, Spain",1.38,"HEINY, CABGY",-1.13,"ABEV, CCU",0.25
+England vs Argentina,Argentina,England,8.0,"France, Spain",1.38,"HEINY, CABGY",-4.69,TAP,-3.31

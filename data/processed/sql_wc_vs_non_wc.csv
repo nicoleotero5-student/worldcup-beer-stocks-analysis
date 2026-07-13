@@ -1,0 +1,21 @@
+ticker,company,period,avg_price,trading_days
+ABEV,Ambev,Non World Cup,3.27,3888
+ABEV,Ambev,World Cup window,3.33,8
+ASBRF,Asahi,Non World Cup,9.99,3888
+ASBRF,Asahi,World Cup window,11.24,8
+BUD,AB InBev,Non World Cup,69.72,3888
+BUD,AB InBev,World Cup window,77.78,8
+CABGY,Carlsberg,Non World Cup,19.33,3888
+CABGY,Carlsberg,World Cup window,20.05,8
+CCU,Cervecerias Unidas,Non World Cup,14.5,3888
+CCU,Cervecerias Unidas,World Cup window,14.33,8
+HEINY,Heineken,Non World Cup,37.7,3888
+HEINY,Heineken,World Cup window,40.76,8
+KNBWY,Kirin,Non World Cup,16.09,3888
+KNBWY,Kirin,World Cup window,18.62,8
+SAM,Boston Beer,Non World Cup,297.86,3888
+SAM,Boston Beer,World Cup window,307.12,8
+STZ,Constellation Brands,Non World Cup,141.89,3888
+STZ,Constellation Brands,World Cup window,174.39,8
+TAP,Molson Coors,Non World Cup,48.74,3888
+TAP,Molson Coors,World Cup window,51.94,8
